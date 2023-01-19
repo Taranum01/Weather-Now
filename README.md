@@ -4,7 +4,7 @@ This is a Weather App which tells you about the weather of any city in the World
 <br>
 <br>
 
-// App Link --> https://megha296.github.io/Weather_Tracker/ //
+App Link --> https://taranum01.github.io/WeatherNow.github.io// 
 
 <br>
 
