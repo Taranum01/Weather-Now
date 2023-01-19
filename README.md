@@ -4,7 +4,7 @@ This is a Weather App which shows you the current weather of any city in the Wor
 <br>
 <br>
 
-App Link --> https://taranum01.github.io/WeatherNow.github.io// 
+App Link --> https://taranum01.github.io/Weather-Now/
 
 <br>
 
