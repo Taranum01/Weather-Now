@@ -8,13 +8,13 @@ App Link --> https://taranum01.github.io/WeatherNow.github.io//
 
 <br>
 
-This app tells you about
+It shows-
 
 <ul>
   <li>Weather 🌥🌧🌤⚡️❄️⛈</li>
   <li>Temperature 🌡</li>
-  <li>Current time ⏰  and Date 📆</li>
-   <li>Minimun and Maximun temprature of the day 🌡</li>
+  <li>Current time ⏰ and Date 📆</li>
+   <li>Minimum and Maximum temperature of the day 🌡</li>
 </ul>
 <br>
-Language use in this app --> Html, CSS, JS
+Languages used --> Html, CSS, JavaScript
