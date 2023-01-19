@@ -1,14 +1,12 @@
 # Weather-App 🌤⛈⛅️
 
-This is a Weather App which tells you about the weather of any city in the World 🌏.
+This is a Weather App which shows you the current weather of any city in the World 🌏 using API access.
 <br>
 <br>
 
 App Link --> https://taranum01.github.io/WeatherNow.github.io// 
 
 <br>
-
-It shows-
 
 <ul>
   <li>Weather 🌥🌧🌤⚡️❄️⛈</li>
